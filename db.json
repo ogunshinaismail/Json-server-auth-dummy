@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "email": "testi@mail.com",
+      "password": "$2a$10$K0AbG.mks/pIKA0bUrLIHu3UKu2OgKnvoxp90.7Y2Nv8wwD2JNaW2",
+      "id": 2
+    },
+    {
+      "email": "testing@mail.com",
+      "password": "$2a$10$mRUu36S8fi5Roa4rn/VhdOBdg6Fwun9MIUCxCea7tpwsizwi5630e",
+      "name": "ismail femi",
+      "id": 3
+    },
+    {
+      "email": "AMANDAHARRY007@GMAIL.COM",
+      "password": "$2a$10$dj3v8SjmJca0ccgoXplZleTHOX8GEHlB4sekHOOxkPQXwrKqDgpya",
+      "firstname": "JACK",
+      "surname": "LEDBETTER",
+      "id": 4
+    },
+    {
+      "email": "johnnlllinda90@gmail.com",
+      "password": "$2a$10$KxttTC9bPhe6lZl.jWmhJ.OG/LLzJOUB1/crgcmXbk05L0iAthbYy",
+      "firstname": "THOMPSON",
+      "surname": "LEONARD",
+      "id": 5
+    },
+    {
+      "email": "ismailogunshina@yahoo.com",
+      "password": "$2a$10$4TRyIMOAFA5pkMD6WVKSFO/CX2XU6wjMzsnII9mRIOYQQwsCGQWuW",
+      "firstname": "Ismail",
+      "surname": "Ogunshina",
+      "id": 6
+    }
+  ],
+  "posts": [
+    {
+      "content": "lorem is a bad boy"
+    },
+    {
+      "id": 2,
+      "content": "I am not that bad I swear"
+    },
+    {
+      "text": "fvfvsdfvfvdfvdf",
+      "id": 3
+    },
+    {
+      "text": "I am good now",
+      "id": 4
+    }
+  ]
+}
